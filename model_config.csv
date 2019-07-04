@@ -1,0 +1,15 @@
+num+AF8-conv+AF8-layers,3,,
+,,,
+conv+AF8-kern+AF8-sizes+AF8-x,64,32,16
+conv+AF8-kern+AF8-sizes+AF8-y,2,2,1
+conv+AF8-num+AF8-filters,16,8,4
+conv+AF8-batch+AF8-norm+AF8-present,1,0,1
+conv+AF8-dropout+AF8-present,1,1,1
+conv+AF8-dropouts,0.4,0.4,0.4
+,,,
+num+AF8-dense+AF8-layers,1,,
+dense+AF8-num+AF8-outputs,1024,,
+dense+AF8-dropouts+AF8-present,1,,
+dense+AF8-dropouts,0.4,,
+,,,
+learning+AF8-rate,0.00075,,

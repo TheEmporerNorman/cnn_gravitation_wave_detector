@@ -1,0 +1,4 @@
+name(“”),sensitivity,noise_amp,lat_deg(deg),lat_min('),lat_sec(''),long_deg(deg),long_min{'),long_sec(''),height_above_sea_level(m),bearing_x_arm,bearing_y_arm
+LHO,1,0.02,46,27,19,119,24,28,80,324,234
+LLO,1,0.02,30,33,46,90,46,27,47,252,162
+VIRGO,0.5,0.01,43,37,53,10,30,16,6,19,289
